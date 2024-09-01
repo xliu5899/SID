@@ -6,4 +6,4 @@ This task was designed for measurement of neural response to social reward in th
 The task runs continuously for 75 trials, and takes approximately 10 minutes.
 
 
-*Citation: Ait Oumeziane B, Schryer-Praga J, Foti D. “Why don’t they ‘like’ me more?”: Comparing the time courses of social and monetary reward processing. Neuropsychologia. 2017;107:48-59. doi:10.1016/j.neuropsychologia.2017.11.001![image](https://github.com/user-attachments/assets/e13dcce0-302c-4aca-906e-d85b30efa574)
+*Citation: ![image](https://github.com/user-attachments/assets/e13dcce0-302c-4aca-906e-d85b30efa574)
